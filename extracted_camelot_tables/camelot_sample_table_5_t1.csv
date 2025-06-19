@@ -1,0 +1,6 @@
+0,1,2,3
+Item,Quantity,Price per Unit,Total Value
+Item A,100,$10,"$1,000"
+Item B,200,$15,"$3,000"
+Item C,150,$20,"$3,000"
+Item D,250,$25,"$6,250"
